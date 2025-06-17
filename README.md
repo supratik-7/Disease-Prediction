@@ -17,7 +17,12 @@ The **AI Disease Predictor** is a web-based application built using **Streamlit*
 * 📋 Personalized recommendations based on the predicted disease
 
 ---
+## 💻 Demo
 
+👉 [Click here to use the app](https://disease-prediction-bkxku22aqtvjbqtcb9kvcu.streamlit.app/)
+
+Experience the AI-powered Disease Prediction Tool live in your browser!
+---
 ## 📦 Tech Stack
 
 * **Frontend**: [Streamlit](https://streamlit.io)
