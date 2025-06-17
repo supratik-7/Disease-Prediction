@@ -82,8 +82,8 @@ streamlit run app.py
 
 ## 🖼️ Screenshots
 
-![Dark Mode](screenshots/dark_mode.png)
-![Light Mode](screenshots/light_mode.png)
+![Dark Mode](dark.png)
+![Light Mode](white.png)
 
 ---
 
