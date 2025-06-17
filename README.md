@@ -83,7 +83,12 @@ streamlit run app.py
 ## 🖼️ Screenshots
 
 ![Dark Mode](dark.png)
-![Light Mode](white.png)
+![Light Mode](light.png)
+![Dark Mode](dark.png)
+![Condition of no disease](dark.png)
+![Condition of a disease](dark.png)
+
+
 
 ---
 
@@ -97,8 +102,8 @@ This tool is intended **only for educational and awareness purposes**. It does n
 
 For feedback or questions, please reach out:
 
-* **GitHub**: [@your-username](https://github.com/your-username)
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
+* **GitHub**: [@your-username](https://github.com/supratik-7)
+* **Email**: [your.email@example.com](mailto:supratikdatta766@gmail.com)
 
 ---
 
